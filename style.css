@@ -98,7 +98,7 @@ overflow: hidden;
       margin: 0 -35px 0 35px;
 
   }
-} */ */
+} */ 
                                                  only hear typing effect
 
 
@@ -120,7 +120,7 @@ overflow: hidden;
       }
 /* 
             Notes for Math  */
-       .d4{
+      /* .d4{
         display: flex;
         justify-content: center;
         margin: 20px;
@@ -132,7 +132,7 @@ overflow: hidden;
        .main1{
 
         background-color: rgb(238, 227, 215);
-                 height: 700px;
+                 height: 800px;
       
        }
 
